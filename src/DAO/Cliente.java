@@ -12,6 +12,7 @@ public class Cliente implements Crud
     private ClientesJpaController controlador;
     private entidades.Clientes entidad;
     String msj=null;
+    String prueba ="Esta es la primera prueba de GitHub";//pruebaGitHub
 
     public Cliente()
     {
